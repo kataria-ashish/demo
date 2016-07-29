@@ -1,0 +1,5 @@
+**/node_modules/**
+first/dist/
+*.orig
+first/typings/
+first/npm-debug.log
